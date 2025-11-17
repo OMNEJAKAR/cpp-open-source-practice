@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Welcom to open sorce contributon practice" << endl;
+    cout << "Welcome to open source contribution practice" << endl;
     return 0;
 }
